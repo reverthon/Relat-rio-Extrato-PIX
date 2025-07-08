@@ -16,7 +16,7 @@ Este projeto é uma ferramenta para leitura, extração e análise de transaçõ
 ## 🖥️ Interface
 
 A interface exibe:
-- Nome do associado.
+- Nome do cliente.
 - Resumo geral dos recebimentos.
 - Análise por mês com concentração de PIX.
 
