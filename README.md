@@ -1,6 +1,6 @@
 # Tratar PRN PIX
 
-Este projeto é uma ferramenta para leitura, extração e análise de transações PIX a partir de arquivos `.PRN` exportados do sistema XY.
+Esse projeto foi desenvolvido para atender à necessidade da empresa de realizar uma análise mais detalhada das movimentações financeiras via PIX, tanto em relação a pagamentos quanto recebimentos. Como o sistema original não disponibilizava uma base específica para esse tipo de análise, foi criado um script em Python capaz de processar o extrato de conta corrente gerado no formato PRN, sem configurações padronizadas e disponibilizar as informações em tela.
 
 ## 📌 Funcionalidades
 
@@ -31,3 +31,4 @@ A interface exibe:
 
 ```bash
 pip install pyqt5
+
