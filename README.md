@@ -1,6 +1,6 @@
 # Tratar PRN PIX
 
-Esse projeto foi desenvolvido para atender à necessidade da empresa de realizar uma análise mais detalhada das movimentações financeiras via PIX, tanto em relação a pagamentos quanto recebimentos. Como o sistema original não disponibilizava uma base específica para esse tipo de análise, foi criado um script em Python capaz de processar o extrato de conta corrente gerado no formato PRN, sem configurações padronizadas e disponibilizar as informações em tela.
+Este projeto foi desenvolvido para atender à necessidade da empresa em realizar uma análise detalhada das movimentações financeiras via PIX, tanto de pagamentos quanto de recebimentos. Como o sistema original não disponibilizava uma base específica para este tipo de análise, foi criado um script em Python capaz de processar extratos de conta corrente gerados no formato PRN, que não possuem padronização, disponibilizando as informações de forma tratada e visual em tela.
 
 ## 📌 Funcionalidades
 
